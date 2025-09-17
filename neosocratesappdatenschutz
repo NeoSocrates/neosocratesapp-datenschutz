@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <title>Datenschutzerklärung – NeoSocrates App</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 800px;
+      margin: 40px auto;
+      line-height: 1.6;
+      color: #eee;
+      background-color: #111;
+      padding: 20px;
+      border-radius: 8px;
+    }
+    h1 {
+      color: #6cc644;
+    }
+    h2 {
+      margin-top: 30px;
+      color: #6cc644;
+    }
+    a {
+      color: #6cc644;
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <h1>Datenschutzerklärung für die NeoSocrates App</h1>
+  <p>Der Schutz Ihrer persönlichen Daten ist uns wichtig. Diese App verarbeitet keine personenbezogenen Daten auf externen Servern. Alle Eingaben, Fortschritte und Einstellungen werden ausschließlich lokal auf Ihrem Gerät gespeichert. Es findet keine Übertragung an uns oder Dritte statt.</p>
+
+  <h2>Erhobene Daten</h2>
+  <ul>
+    <li><strong>To-Do-Einträge und Fortschritte:</strong> werden nur lokal auf Ihrem Endgerät gespeichert.</li>
+    <li><strong>App-Einstellungen (Sprache, Level, Dark Mode):</strong> ebenfalls nur lokal gespeichert.</li>
+  </ul>
+  <p>Es werden keine Standortdaten, keine Kontaktdaten, keine Gesundheitsdaten und keine sonstigen personenbezogenen Daten außerhalb Ihres Geräts erhoben oder verarbeitet.</p>
+
+  <h2>Weitergabe von Daten</h2>
+  <p>Es findet keine Weitergabe von Daten an Dritte statt. Die App hat keine Internetanbindung und sendet keine Informationen an Server.</p>
+
+  <h2>Ihre Rechte</h2>
+  <p>Da die App keine Daten übermittelt oder speichert, die wir einsehen können, bestehen gegenüber uns keine Ansprüche auf:</p>
+  <ul>
+    <li>Auskunft</li>
+    <li>Berichtigung</li>
+    <li>Löschung</li>
+    <li>Einschränkung der Verarbeitung</li>
+    <li>Datenübertragbarkeit</li>
+  </ul>
+  <p>Alle Daten können Sie jederzeit selbst löschen, indem Sie die App von Ihrem Gerät deinstallieren.</p>
+
+  <h2>Kontakt</h2>
+  <p>Bei Fragen zur App oder zu dieser Datenschutzerklärung wenden Sie sich bitte an den im Impressum angegebenen Verantwortlichen.</p>
+</body>
+</html>
